@@ -43,7 +43,7 @@
 
 <br />
 
-                                    ### 📫 Let's Connect!
+  ### 📫 Let's Connect!
 
 <div align="center">
   <a href="https://github.com/brajesh61"><img src="https://img.shields.io/badge/GitHub-00E5FF?style=for-the-badge&logo=github&logoColor=white" /></a>
