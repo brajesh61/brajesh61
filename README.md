@@ -37,9 +37,9 @@
 
 | Category | Repository | Description | Key Tech |
 | :--- | :--- | :--- | :--- |
-| 🎓 **Academic** | [Project-Name](https://github.com/brajesh61) | Brief description of your academic project | Python, C++ |
-| ⚙️ **Systems** | [Project-Name](https://github.com/brajesh61) | Brief description of system software/tools | C++, Linux |
-| 🌐 **Open Source** | [Profile README](https://github.com/brajesh61/brajesh61) | Automated live profile with daily snake workflow | GitHub Actions |
+| ⚡ **C# / .NET** | <a href="https://github.com/brajesh61/The-Ultimate-C-Sharp-Programming" target="_blank">The-Ultimate-C-Sharp-Programming</a> | Comprehensive guide and code samples for C# programming | C# |
+| 🐍 **Python** | <a href="https://github.com/brajesh61/The-Ultimate-Python-Programming" target="_blank">The-Ultimate-Python-Programming</a> | Practical examples and tutorials for learning Python | Python, HTML |
+| 🌐 **Profile** | <a href="https://github.com/brajesh61/brajesh61" target="_blank">brajesh61</a> | Live GitHub profile README with automated daily workflows | GitHub Actions, Markdown |
 
 <br />
 
