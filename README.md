@@ -11,9 +11,9 @@
 
 | Category | Skills & Tools |
 | :--- | :--- |
-| **Languages** | <img src="https://img.shields.io/badge/Python-00E5FF?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C++-FF007F?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-00FF66?style=for-the-badge&logo=javascript&logoColor=black" /> |
-| **Frameworks** | <img src="https://img.shields.io/badge/Node.js-00E5FF?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-FF007F?style=for-the-badge&logo=react&logoColor=white" /> |
-| **Tools & DevOps** | <img src="https://img.shields.io/badge/Git-00E5FF?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-FF007F?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-00FF66?style=for-the-badge&logo=linux&logoColor=black" /> |
+| **Languages** | <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-00E5FF?style=for-the-badge&logo=python&logoColor=white" /></a> <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://img.shields.io/badge/C%23-FF007F?style=for-the-badge&logo=csharp&logoColor=white" /></a> <a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://img.shields.io/badge/C-00FF66?style=for-the-badge&logo=c&logoColor=black" /></a> <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"><img src="https://img.shields.io/badge/PowerShell-00E5FF?style=for-the-badge&logo=powershell&logoColor=white" /></a> |
+| **Frameworks** | <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-00E5FF?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a> <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/.NET-FF007F?style=for-the-badge&logo=dotnet&logoColor=white" /></a> |
+| **Tools & DevOps** | <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-00E5FF?style=for-the-badge&logo=git&logoColor=white" /></a> <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-FF007F?style=for-the-badge&logo=docker&logoColor=white" /></a> <a href="https://learn.microsoft.com/en-us/mem/intune/" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Intune-00FF66?style=for-the-badge&logo=microsoft&logoColor=black" /></a> |
 
 <br />
 
