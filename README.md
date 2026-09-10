@@ -1,3 +1,11 @@
+<!-- Live Typing Header -->
+<div align="center">
+  <a href="https://github.com/brajesh61" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%90%8B%2C+I'm+Brajesh+Kumar;Automation+Engineer;Open+Source+Enthusiast" alt="Typing Header" />
+  </a>
+</div>
+
+<br />
 <!-- Header Badges -->
 <div align="center">
   <img src="https://img.shields.io/badge/STUDENT-YOUR_COLLEGE-00E5FF?style=for-the-badge&logo=education&logoColor=white" />
