@@ -1,17 +1,16 @@
 <!-- Live Typing Header -->
 <div align="center">
   <a href="https://github.com/brajesh61" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%90%8B%2C+I'm+Brajesh+Kumar;Open+Source+Enthusiast" alt="Typing Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%90%8B%2C+I'm+Brajesh+Kumar;Automation+Engineer;Open+Source+Enthusiast" alt="Typing Header" />
   </a>
 </div>
 
 <br />
-
 <!-- Header Badges -->
 <div align="center">
-  <img src="https://img.shields.io/badge/DEVELOPER-PACKAGING_ENGINEER-00E5FF?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/OPEN_SOURCE-ENTHUSIAST-FF007F?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/AUTOMATION-SPECIALIST-00FF66?style=for-the-badge&logo=powershell&logoColor=black" />
+  <img src="https://img.shields.io/badge/STUDENT-YOUR_COLLEGE-00E5FF?style=for-the-badge&logo=education&logoColor=white" />
+  <img src="https://img.shields.io/badge/DEVELOPER-Automation_ENGINEER-FF007F?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/OPEN_SOURCE-ENTHUSIAST-00FF66?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
 <br />
@@ -44,17 +43,15 @@
 
 <br />
 
-<!-- Let's Connect Section -->
+  <!-- Let's Connect Section -->
 <div align="center">
   <h3>📫 Let's Connect!</h3>
-
-  <a href="https://github.com/brajesh61" target="_blank"><img src="https://img.shields.io/badge/GitHub-00E5FF?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/brajesh61"><img src="https://img.shields.io/badge/GitHub-00E5FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/brajeshkumar09/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:brajeshkumarrds@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 ---
-
 <div align="center">
   <sub><i>Designed with ⚡ Synthwave Neon for brajesh61 | Powered by GitHub Actions & Shields.io</i></sub>
 </div>
