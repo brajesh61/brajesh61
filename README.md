@@ -9,7 +9,7 @@
 <!-- Header Badges -->
 <div align="center">
   <img src="https://img.shields.io/badge/STUDENT-Amity University-00E5FF?style=for-the-badge&logo=education&logoColor=white" />
-  <img src="https://img.shields.io/badge/DEVELOPER-Automation_ENGINEER-FF007F?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation_Developer-FF007F?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/OPEN_SOURCE-ENTHUSIAST-00FF66?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
