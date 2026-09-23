@@ -37,9 +37,10 @@
 
 | Category | Repository | Description | Key Tech |
 | :--- | :--- | :--- | :--- |
-| ⚡ **C# / .NET** | <a href="https://github.com/brajesh61/The-Ultimate-C-Sharp-Programming" target="_blank">The-Ultimate-C-Sharp-Programming</a> | Comprehensive guide and code samples for C# programming | C# |
-| 🐍 **Python** | <a href="https://github.com/brajesh61/The-Ultimate-Python-Programming" target="_blank">The-Ultimate-Python-Programming</a> | Practical examples and tutorials for learning Python | Python, HTML |
-| 🌐 **Profile** | <a href="https://github.com/brajesh61/brajesh61" target="_blank">brajesh61</a> | Live GitHub profile README with automated daily workflows | GitHub Actions, Markdown |
+| ⚙️ **Automation** | [PowerShell-Automation-Enterprise](https://github.com/brajesh61/PowerShell-Automation-Enterprise) | Enterprise PowerShell scripts and automation tools for infrastructure management | PowerShell, PSADT |
+| ⚡ **C# / .NET** | [The-Ultimate-C-Sharp-Programming](https://github.com/brajesh61/The-Ultimate-C-Sharp-Programming) | Comprehensive guide and code samples for C# programming | C# |
+| 🐍 **Python** | [The-Ultimate-Python-Programming](https://github.com/brajesh61/The-Ultimate-Python-Programming) | Practical examples and tutorials for learning Python | Python, HTML |
+| 🌐 **Profile** | [brajesh61](https://github.com/brajesh61/brajesh61) | Live GitHub profile README with automated daily workflows | GitHub Actions, Markdown |
 
 <br />
 
